@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
-#### CSS Framework/Library/Pre-processors
+#### CSS Framework
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Design/Visual Tools
@@ -17,7 +17,7 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=adobe%20XD)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-#### Database/State
+#### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Backend
@@ -30,7 +30,6 @@
 ![Cloud Flare](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=cloudflare)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
