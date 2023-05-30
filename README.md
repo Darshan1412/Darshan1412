@@ -1,9 +1,53 @@
-<h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> Hi 👋🏻, I'm Darshan Jain </br> 
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Tech Stack 💻
+#### Languages
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+
+#### CSS Framework
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+#### Design/Visual Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=adobe%20XD)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+
+#### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+#### Backend
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+
+#### Web Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Cloud Flare](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=cloudflare)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+
+## Current GitHub Stats 📊
+![](https://github-readme-stats.vercel.app/api?username=Darshan1412&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1412&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+> 
+## GitHub Streaks 🔥
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan1412&theme=onedark&hide_border=true)<br/>
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+
+<p align="center">
+<img src="https://github.com/Darshan1412/Darshan1412/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[![](https://visitcount.itsvg.in/api?id=Darshan1412&pretty=true)](https://visitcount.itsvg.in)
