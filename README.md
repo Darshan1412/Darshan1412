@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Current GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=Darshan1412&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1412&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Darshan1412&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1412&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 > 
 ## GitHub Streaks 🔥
-![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan1412&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan1412&theme=onedark&hide_border=true)<br/>
 
 ### Thanks for Visiting my GitHub Profile!
 
