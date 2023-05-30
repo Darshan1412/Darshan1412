@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋🏻, I'm Darshan Jain </br> 
+</h1>
 
 <!--
 **Darshan1412/Darshan1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +24,9 @@ Here are some ideas to get you started:
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Darshan1412&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Darshan1412k&theme=jolly&no-frame=false&no-bg=false&margin-w=4)
+### Thanks for Visiting my GitHub Profile!
+
+---
 
 <p align="center">
 <img src="https://github.com/Darshan1412/Darshan1412/blob/output/github-contribution-grid-snake.svg">
