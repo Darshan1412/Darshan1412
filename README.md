@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=Darshan1412&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1412&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+> 
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Darshan1412&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## Watch my contribution graph eaten by the snake🐍
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Darshan1412k&theme=jolly&no-frame=false&no-bg=false&margin-w=4)
+
 <p align="center">
 <img src="https://github.com/Darshan1412/Darshan1412/blob/output/github-contribution-grid-snake.svg">
 </p>
