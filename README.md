@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Darshan1412&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 ## Watch my contribution graph eaten by the snake🐍
 <p align="center">
 <img src="https://github.com/Darshan1412/Darshan1412/blob/output/github-contribution-grid-snake.svg">
 </p>
+
 [![](https://visitcount.itsvg.in/api?id=Darshan1412&pretty=true)](https://visitcount.itsvg.in)
