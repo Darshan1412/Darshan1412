@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=Darshan1412&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1412&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Darshan1412&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan1412&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1412&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 > 
 ## GitHub Streaks 🔥
