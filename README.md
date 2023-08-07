@@ -30,7 +30,7 @@
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Cloud Flare](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=cloudflare)
+![Cloud Flare](https://img.shields.io/badge/-CloudFlare-000?style=for-the-badge&logo=cloudflare)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
