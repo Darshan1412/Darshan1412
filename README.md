@@ -46,7 +46,8 @@
 ---
 
 <p align="center">
-<img src="https://github.com/Darshan1412/Darshan1412/blob/output/github-contribution-grid-snake.gif">
+<!-- <img src="https://github.com/Darshan1412/Darshan1412/blob/output/github-contribution-grid-snake.gif"> -->
+![snake gif](https://github.com/Darshan1412/Darshan1412/blob/output/github-contribution-grid-snake.gif)
 
 
 </p>
