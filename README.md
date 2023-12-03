@@ -5,6 +5,9 @@
 <h1 align="center"> Hi 👋🏻, I'm Darshan Jain </br> 
 </h1>
 
+## Socials 🌐
+[![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Darshan-Jain1/)
+
 ## Tech Stack 💻
 #### Languages
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
