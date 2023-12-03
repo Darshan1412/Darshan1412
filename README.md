@@ -6,12 +6,12 @@
 </h1>
 
 ## Socials 🌐
-[![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Darshan-Jain1/)
+[![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/Darshan-Jain1/)
 
 ## Tech Stack 💻
 #### Languages
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C&logoColor=0047AB)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
@@ -36,6 +36,7 @@
 ![Cloud Flare](https://img.shields.io/badge/-CloudFlare-000?style=for-the-badge&logo=cloudflare)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=Render)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
