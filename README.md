@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <a href="https://fontmeme.com/fonts/geraldo-island-font/"><img src="https://fontmeme.com/permalink/230807/c5a154fa14af598ef5351eaef0df2880.png" alt="geraldo-island-font" border="0"></a>
-</p>
+</p>-->
 
 <h1 align="center"> Hi 👋🏻, I'm Darshan Jain </br> 
 </h1>
