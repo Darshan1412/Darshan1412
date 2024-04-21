@@ -8,7 +8,7 @@
 ## Socials 🌐
 [![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/Darshan-Jain1/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Darshan37653986)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/darshan_._._j/)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/darshan_._._j/)-->
 <!--[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/darshan_._._j/)-->
 
 ## Tech Stack 💻
