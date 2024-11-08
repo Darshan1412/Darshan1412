@@ -36,10 +36,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000?style=for-the-badge&logo=POSTGRESQL&logoColor=lightblue)
 
 #### Cloud Technologies
-<p>
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="30" />
- <img src="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=232F3E&font=custom-font-name" height="35" style="padding: 5px;">
-</p>
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
