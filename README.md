@@ -36,7 +36,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000?style=for-the-badge&logo=POSTGRESQL&logoColor=lightblue)
 
 #### Cloud Technologies
-![Aws](https://img.shields.io/badge/-Amazon_Aws-000?style=for-the-badge&logo=aws)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 
 #### Web Hosting
