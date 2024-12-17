@@ -13,10 +13,11 @@
 ## Tech Stack 💻
 
 #### Languages
-[<img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=C&logoColor=0047AB" alt="C" style="height:35px; width:auto;">](https://en.wikipedia.org/wiki/C_(programming_language))
+<!--![<img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=C&logoColor=0047AB" alt="C" style="height:35px; width:auto;">](https://en.wikipedia.org/wiki/C_(programming_language))-->
 [<img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" style="height:35px; width:auto;">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5" alt="HTML5" style="height:35px; width:auto;">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript" style="height:35px; width:auto;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" style="height:35px; width:auto;">](https://www.typescriptlang.org/)
 <!--![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=yellow)-->
 
 #### Framework
