@@ -6,49 +6,54 @@
 </h1>
 
 ## Socials 🌐
-[![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/Darshan-Jain1/)
-[<img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" style="height:30px; width:auto;">](https://www.linkedin.com/in/Darshan-Jain1/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Darshan37653986)
-<!--[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/darshan_._._j/)-->
+<a href="https://www.linkedin.com/in/Darshan-Jain1/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" style="height:35px; width:auto;">
+</a>
+<a href="https://twitter.com/Darshan37653986" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" style="height:35px; width:auto;">
+</a>
 <!--[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/darshan_._._j/)-->
 
 ## Tech Stack 💻
+
 #### Languages
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C&logoColor=0047AB)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+<!-- <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=C&logoColor=0047AB" alt="C" style="height:35px; width:auto;"> -->
+<img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5" alt="HTML5" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript" style="height:35px; width:auto;">
 <!--![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=yellow)-->
 
 #### Framework
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![ReactJS](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+<img src="https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink" alt="NodeJS" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express" alt="ExpressJS" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" alt="ReactJS" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap" alt="Bootstrap" style="height:35px; width:auto;">
 <!--![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)-->
 
 #### Design/Visual Tools
 <!--![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)-->
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=adobe%20XD)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+<img src="https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=adobe%20XD" alt="Adobe XD" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva" alt="Canva" style="height:35px; width:auto;">
 
 #### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000?style=for-the-badge&logo=POSTGRESQL&logoColor=lightblue)
+<img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb" alt="MongoDB" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-POSTGRESQL-000?style=for-the-badge&logo=POSTGRESQL&logoColor=lightblue" alt="PostgreSQL" style="height:35px; width:auto;">
 
 #### Cloud Technologies
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-000?style=for-the-badge&logo=amazonwebservices&&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-000?style=for-the-badge&logo=amazonwebservices&&logoColor=FF9900" alt="AWS" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker" alt="Docker" style="height:35px; width:auto;">
 
 #### Web Hosting
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Cloud Flare](https://img.shields.io/badge/-CloudFlare-000?style=for-the-badge&logo=cloudflare)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=Render)
+<img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel" alt="Vercel" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-CloudFlare-000?style=for-the-badge&logo=cloudflare" alt="Cloud Flare" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github" alt="GitHub Pages" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify" alt="Netlify" style="height:35px; width:auto;">
+<img src="https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=Render" alt="Render" style="height:35px; width:auto;">
+
 
 #### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+<img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" alt="Git" style="height:35px; width:auto;">
+
 
 ## Current GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=Darshan1412&theme=onedark&hide_border=true&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
