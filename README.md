@@ -46,6 +46,8 @@
 [<img src="https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify" alt="Netlify" style="height:35px; width:auto;">](https://www.netlify.com/)
 [<img src="https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=Render" alt="Render" style="height:35px; width:auto;">](https://render.com/)
 
+#### Version Control
+[<img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" alt="Git" style="height:35px; width:auto;">](https://git-scm.com/)
 
 
 ## Current GitHub Stats 📊
