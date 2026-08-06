@@ -6,7 +6,7 @@
 </h1>
 
 ## Socials 🌐
-[<img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" style="height:35px; width:auto;">](https://www.linkedin.com/in/Darshan-Jain1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Darshan-Jain1/)
 [<img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" style="height:35px; width:auto;">](https://twitter.com/Darshan37653986)
 [<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pink" alt="Instagram" style="height:35px; width:auto;">](https://www.instagram.com/darshan_._._j/)
 
